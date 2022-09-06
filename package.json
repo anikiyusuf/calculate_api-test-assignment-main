@@ -1,0 +1,19 @@
+{
+  "name": "calculate_api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest ",
+    "start:dev": "nodemon app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.0.2",
+    "mathjs": "^11.1.0",
+    "nodemon": "^2.0.19",
+    "supertest": "^6.2.4"
+  }
+}
